@@ -1,0 +1,28 @@
+{
+  "games": [
+    {
+      "name": "Игра 1",
+      "description": "Some description text Some description text Some description text Some description text Some description text Some description text",
+      "img": "/static/images/logo.png",
+      "lastupdate": 1566722783141
+    },
+    {
+      "name": "Игра 2",
+      "description": "Some description text Some description text Some description text Some description text Some description text Some description text",
+      "img": "/static/images/logo.png",
+      "lastupdate": 1566722783141
+    },
+    {
+      "name": "Игра 3",
+      "description": "Some description text Some description text Some description text Some description text Some description text Some description text",
+      "img": "/static/images/logo.png",
+      "lastupdate": 1566722783141
+    },
+    {
+      "name": "Игра 4",
+      "description": "Some description text Some description text Some description text Some description text Some description text Some description text",
+      "img": "/static/images/logo.png",
+      "lastupdate": 1566722783141
+    }
+  ]
+}
